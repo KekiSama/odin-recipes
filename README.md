@@ -1,0 +1,1 @@
+This is a recipe project from The Odin Project, which will utilise what has been learned in the HTML section of the Foundation Lessons.
